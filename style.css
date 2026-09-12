@@ -138,13 +138,13 @@ dd {
 }
 
 .cool {
-    width: 200px;
+    width: 170px;
     position: absolute;
     transform: translateY(-2100px);
     margin-left: 1390px;
     margin-top: 580px;
     border-radius: 5%;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     rotate: -5deg;
     z-index: -1;
 }
